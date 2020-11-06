@@ -1,10 +1,12 @@
 <p align="center">
-  <a href="https://KevinJohnMulligan.com"><img src="https://kevinjohnmulligan.com/images/android-chrome-192x192.png" alt="PersonalWebsite"  width="20" height="20"></a>
 	<a href="https://github.com/KevinJohnMulligan"><img src="https://img.shields.io/github/followers/KevinJohnMulligan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/KevinJMulligan"><img src="https://img.shields.io/twitter/follow/KevinJMulligan?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/KevinJohnMulligan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+<p align="center">
+	<a href="https://KevinJohnMulligan.com"><img src="https://kevinjohnmulligan.com/images/android-chrome-192x192.png" alt="PersonalWebsite" border-radius="10%" width="200" height="200"></a>
+</p>
 <!--
 **KevinJohnMulligan/KevinJohnMulligan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
