@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	<a href="https://KevinJohnMulligan.com"><img src="https://kevinjohnmulligan.com/images/android-chrome-192x192.png" alt="PersonalWebsite" border-radius="10%" width="200" height="200"></a>
+	<a href="https://KevinJohnMulligan.com"><img src="https://kevinjohnmulligan.com/images/android-chrome-192x192.png" alt="PersonalWebsite" border-radius="10%" width="100" height="100"></a>
 </p>
 <!--
 **KevinJohnMulligan/KevinJohnMulligan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
